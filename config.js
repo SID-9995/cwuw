@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917736306385', 'Helix', true],
+ 
   ['918552991392', 'Sid', true], 
   [''] 
 ] //Number of owners
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = ' 🔖 ┃ Helix' 
-global.author = '@helix.py' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/helix.py\n' 
-global.dygp = 'https://chat.whatsapp.com/CWZcwT72yEKFsmUfMdQuXR'
+global.packname = '🔖' 
+global.author = 'SID' 
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/__sid__99__?igshid=YmMyMTA2M2Y=' 
+global.dygp = 'https://chat.whatsapp.com/Lu3tlonGQZ75dERNsF6duy'
 global.fgsc = 'https://github.com/Text-js/cwuw' 
 global.fgyt = 'https://youtube.com/@helix10'
 global.fgpyp = 'https://youtube.com/@helix10'

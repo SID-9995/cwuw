@@ -12,8 +12,8 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '32460248586', '919398758484']
+global.mods = ['918552991392] 
+global.prems = ['918552991392]
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 global.packname = '🔖' 
 global.author = 'SID' 
 global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/__sid__99__?igshid=YmMyMTA2M2Y=' 
-global.dygp = 'https://chat.whatsapp.com/Lu3tlonGQZ75dERNsF6duy'
-global.fgsc = 'https://github.com/Text-js/cwuw' 
-global.fgyt = 'https://youtube.com/@helix10'
-global.fgpyp = 'https://youtube.com/@helix10'
+global.dygp = 'https://chat.whatsapp.com/G09rBNpMY1l9vgYrkvFtS6'
+global.fgsc = 'https://github.com/SID-9995/cwuw' 
+global.fgyt = 'https://youtube.com/@Asliguru'
+global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
